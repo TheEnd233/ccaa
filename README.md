@@ -33,6 +33,11 @@ Linux + Caddy + Aria2 + AriaNg，实现离线下载、文件管理、在线播�
 * QQ: 337003006
 * 技术交流群: 147687134
 
+### 文档
+
+* https://www.yuque.com/helloz/ccaa/faq
+
+
 ### 请我喝一杯咖啡
 
 ![](https://imgurl.org/upload/1712/cb349aa4a1b95997.png)
